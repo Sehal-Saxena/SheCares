@@ -1,5 +1,8 @@
 # 🌸 SheCares
 
+<img width="1772" height="845" alt="SheCares page" src="https://github.com/user-attachments/assets/d558bc2c-d76f-4d4e-855d-1aff20de037e" />
+
+
 ## 🌷 Introduction  
 Women’s health and hygiene often remain under-discussed, with millions lacking access to awareness, preventive tools, or personalized care. Menstrual health, nutrition tracking, and self-examinations are essential parts of women’s well-being — yet these are often managed in isolation, or not at all.  
 
@@ -66,3 +69,14 @@ The app supports users with real-time cycle tracking, nutrition planning, hygien
 ## 🧩 Design & Architecture  
 Below are the key architectural diagrams and process flows illustrating the system’s functionality and data interactions.  
 
+<img width="1160" height="1030" alt="Shecares Architectural diagram" src="https://github.com/user-attachments/assets/c2d8654b-dc20-4632-9b0a-9b2c810fb7d6" />
+
+## 🌐 Try It Yourself
+
+### 👉 Live Demo: [SheCares](https://she-cares-cyan.vercel.app/)
+
+### 📰 Read the Full Article on Medium: [SheCares — Empowering Women’s Health with AI & Smart Tracking](https://medium.com/@sehal_saxena/she-cares-empowering-womens-health-through-technology-5bb08f690524)
+
+### 🔗 LinkedIn: [Sehal Saxena](https://www.linkedin.com/in/sehal-saxena/)
+
+## ⭐ Follow for more such content!
